@@ -1,6 +1,5 @@
-# IYD 2025 Hackathon - Ramayana Fact-Checking System
+# Ramayana Fact-Checking System
 
-**Team Name:** FactSetu
 
 **Bridging User Belief with Ramayana Wisdom**
 
